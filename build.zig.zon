@@ -36,6 +36,10 @@
             .url = "git+https://github.com/lalinsky/zio?ref=v0.16.0#fd16258e8fadec5aa74f13302efecd070593cb06",
             .hash = "zio-0.16.0-xHbVVJQxIgAMdBlOCF65siVKJRVww9Z_ayfJanpk7VEK",
         },
+        .win32 = .{
+            .url = "git+https://github.com/marlersoft/zigwin32#9f15c276b4e9d05afd34a10d8662a7dfc34647ea",
+            .hash = "win32-42.0.39-preview-mX5pFS564gPTezZn4v3TMxRnfJUrZNx1B_F2p2HKXOeG",
+        },
     },
     .paths = .{
         "build.zig",
